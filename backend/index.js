@@ -11,7 +11,7 @@ const JWT_SECRET = 'NEED_HERE_A_SECRET_KEY'
 
 const pubsub = new PubSub()
 
-const MONGODB_URI = 'mongodb+srv://fullstack:1234share@openstack.trvyo.mongodb.net/BookDB?retryWrites=true&w=majority'
+const MONGODB_URI = 'url in here'
 
 console.log('connecting to', MONGODB_URI)
 
