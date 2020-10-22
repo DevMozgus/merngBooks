@@ -18,7 +18,6 @@ The completed application has functioning author and book creation, login (passw
 
 ### Frontend tech
   - react / react-dom / 
-  - redux 
   - react scripts
   - apollo client
  
