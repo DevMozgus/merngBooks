@@ -3,6 +3,8 @@
 # MERNG Book Log
 A simple log of books and authors in order to learn graphql.
 
+*Note: Currently only backend is implemented
+
 ## Challenge
 The set goal for this project was to create an application using apollo server and the existing technologies I've learnt:
 
